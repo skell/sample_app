@@ -1,0 +1,10 @@
+log/*.log
+temp/*
+temp/**/*
+doc/api
+doc/app
+db/*.sqllite3
+*.swp
+*~
+.DS_Store
+
